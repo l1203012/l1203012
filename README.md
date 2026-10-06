@@ -35,7 +35,7 @@ I'm a developer working across product software and games.
 ### Tech stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,swift,react,nodejs,python,lua,html,css,git,github,vscode&theme=dark" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=ts,js,swift,react,nextjs,nodejs,python,lua,html,css,git,github,vscode&theme=dark" alt="tech stack" />
 </p>
 
 ### GitHub stats
