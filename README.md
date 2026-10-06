@@ -46,7 +46,7 @@ I'm a developer working across product software and games.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=l1203012&bg_color=0d1117&color=94a3b8&line=334155&point=e2e8f0&area=true&hide_border=true" alt="activity graph" />
+  <img src="https://streak-stats.demolab.com?user=l1203012&hide_border=true&background=00000000&stroke=334155&ring=94a3b8&fire=e2e8f0&currStreakNum=e2e8f0&sideNums=e2e8f0&currStreakLabel=94a3b8&sideLabels=94a3b8&dates=64748b" alt="contribution streak" />
 </p>
 
 <p align="center">
