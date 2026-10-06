@@ -41,7 +41,7 @@ I'm a developer working across product software and games.
 ### GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=l1203012&show_icons=true&hide_border=true&theme=transparent&title_color=e2e8f0&text_color=94a3b8&icon_color=94a3b8" alt="stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=l1203012&show_icons=true&hide_rank=true&hide_border=true&theme=transparent&title_color=e2e8f0&text_color=94a3b8&icon_color=94a3b8" alt="stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=l1203012&layout=compact&hide_border=true&theme=transparent&title_color=e2e8f0&text_color=94a3b8" alt="top languages" />
 </p>
 
