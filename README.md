@@ -12,7 +12,7 @@
 
 I'm a developer working across product software and games.
 
-- **529 Technologies** — Software Developer, building and maintaining production applications.
+- **529 Technologies** — Software Developer, helping to build applications.
 - **Spearpoint** — Owner of the studio and Lead Gameplay Programmer, responsible for core gameplay systems and the technical direction of our projects.
 
 ### Featured projects
