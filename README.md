@@ -25,9 +25,9 @@ I'm a developer working across product software and games.
       <a href="https://github.com/l1203012/Whiteprint"><img src="https://img.shields.io/badge/View%20repo-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="Whiteprint" /></a>
     </td>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/l1203012/portfolio_v26">Portfolio</a></h4>
-      <p>My open-source, hand-coded portfolio. Feel free to clone it and make your own version.</p>
-      <a href="https://github.com/l1203012/portfolio_v26"><img src="https://img.shields.io/badge/View%20repo-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" /></a>
+      <h4><a href="https://github.com/l1203012/BarMaster">BarMaster</a></h4>
+      <p>A Touch Bar that actually does something for Chrome, Slack and Ghostty. Native Swift, near-zero CPU while idle.</p>
+      <a href="https://github.com/l1203012/BarMaster"><img src="https://img.shields.io/badge/View%20repo-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="BarMaster" /></a>
     </td>
   </tr>
 </table>
